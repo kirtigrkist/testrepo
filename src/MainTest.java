@@ -7,6 +7,7 @@ public class MainTest {
 		System.out.println("Main function added");
 		System.out.println("yes program can run without main");
 		System.out.println("This is kirti branch");
+		System.out.println("Added to kirti");
 		System.out.println("This is master branch");
 	}
 }
