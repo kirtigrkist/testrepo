@@ -5,7 +5,7 @@ public class TestClass {
 		System.out.println("This is kirti branch");
 		System.out.println("This is master branch");
 		System.out.println("Added 5th line");
-		System.out.println("Added sixth line");
+		System.out.println("Added 6th line");
 	}
 
 }
