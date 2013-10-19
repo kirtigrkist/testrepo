@@ -10,5 +10,6 @@ public class MainTest {
 		System.out.println("This is master branch");
 		System.out.println("fifth line added");
 		System.out.println("Added 6th line");
+		System.out.println("added 7th line");
 	}
 }
