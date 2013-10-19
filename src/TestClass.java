@@ -6,7 +6,6 @@ public class TestClass {
 		System.out.println("This is kirti branch");
 		System.out.println("Added fifth line");
 		System.out.println("Added sixth line");
-		System.out.println("trying commit reverted");
 	}
 
 }
